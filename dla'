@@ -1,0 +1,53 @@
+* [33m0770ea27ea971a4ee55804e2c243df8352df0f52[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32msuyeong[m[33m)[m feat : Add Board make Repository.
+* [33mcbfec9f0c25915b7c7457350d31e578716749c98[m feat : Add Board make Dto for update.
+* [33mbe9774013a1eda93910be373a06beb9c1443b322[m feat : Add Board make Service : createBoard, updateBoard, deleteBoard, saveImages
+* [33m3472c5ec6ee3206adeb18bdc3bb178884ea521f3[m feat : Add Board make Service : createBoard, updateBoard, deleteBoard
+* [33mdd220e4f243ada4b7f720f93ded5a53912bf53cf[m feat : Add Board make Repository.
+* [33mc5451934522bd44c5cf4d1c2444494e196980231[m feat : Add Board make Dto.
+* [33mab06c8130f425fcdc0a9175eba84a4e0a08d5fe9[m feat : BoardController 생성 make BoardController for board create, update, delete, split into two form
+* [33m1cfb8555607db92ff7016ba3441748fbda53ea9d[m chore : Modify Board entity add annotation
+* [33me394809eef9c00ee3bceabf615d4647135212382[m chore : Modify Image entity add annotation
+*   [33m189c959c1852370eef21219b1a994cdd991a42ce[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge pull request #7 from amosi999/hyeonseo
+[32m|[m[33m\[m  
+[32m|[m * [33m92a7cb27b5925cbfe637c04af8e17345fd262ff6[m chore: Update Board, Comment
+* [33m|[m [33mb2d9c43c87af2107b3084f8d6cce3e79da7289d5[m Merge pull request #6 from amosi999/hyeonseo
+[34m|[m[33m\[m[33m|[m 
+[34m|[m * [33mc4789bd81dac8fa16f077f370438041c63c9251e[m[33m ([m[1;31morigin/hyeonseo[m[33m)[m build: Update build.gradle
+[34m|[m * [33mb0856b30888a716198039c04d1a0ceeb0fe1678e[m feat: Add signin
+[34m|[m[34m/[m  
+*   [33mc0b26a7c302d0f29b37083700f8d668832a05a4e[m Merge pull request #5 from amosi999/test
+[36m|[m[1;31m\[m  
+[36m|[m * [33m6c7f693c6830d706a5a57f059b9e759babe125e5[m feat: Add signup
+[36m|[m * [33m31e689a155a8a150fc5e5287d5798590895a18e1[m build: Update build.gradle
+[36m|[m * [33m17b41842608dc66b2a7a32961fd12b3ba9285f50[m feat: Update home
+[36m|[m * [33m6dafb0fb73bc4103646488a4cd6320ab0e85ab4e[m feat: Add user
+[36m|[m * [33m0239d15e58aa0b75c2ebaec2f898e8bd636ccff9[m chore: Update entity
+[36m|[m * [33m568ab208aaed77fd403ac5b16c0115d7ae351a64[m feat: Add home
+[36m|[m * [33m92e28b684feb80847bca757b94a89bccef7461af[m build: Update build.gradle
+[36m|[m * [33m796ecfbb3940c25646168e09851d6155c5f7073d[m chore: Update package
+* [1;31m|[m [33m101e6ec5d466aa88064d4ac3f869b3c940d7c0d9[m Merge pull request #4 from amosi999/test
+[1;32m|[m[1;31m\[m[1;31m|[m 
+[1;32m|[m * [33mf4e6386f0369fdc885e02d3cc1605f3fde4579ec[m chore: Update image
+[1;32m|[m * [33mda331886c4f78d93f5bce7697eb91fabee30d38a[m chore: Update entities
+[1;32m|[m [1;33m|[m * [33m43979673776c735173891910ee325ab52e9a7a0a[m[33m ([m[1;35mrefs/stash[m[33m)[m WIP on suyeong: 814b0e3 Merge pull request #3 from amosi999/test
+[1;32m|[m [1;33m|[m[1;32m/[m[1;35m|[m 
+[1;32m|[m[1;32m/[m[1;33m|[m [1;35m|[m 
+[1;32m|[m [1;33m|[m * [33m9e3313e334a53cec6bd9ca96a7177a6725f8c93c[m index on suyeong: 814b0e3 Merge pull request #3 from amosi999/test
+[1;32m|[m [1;33m|[m[1;32m/[m  
+[1;32m|[m[1;32m/[m[1;33m|[m   
+* [1;33m|[m [33m814b0e37678c19953a8a30a9b2036d66790f7d77[m[33m ([m[1;32mmaster[m[33m, [m[1;32mboardcreate[m[33m)[m Merge pull request #3 from amosi999/test
+[1;36m|[m[1;33m\[m[1;33m|[m 
+[1;36m|[m * [33mb5d61ef8c524c24cd6e6fa7e6e0e46fc4e0c62e2[m chore: Update chat
+* [31m|[m [33m946413a9869f51babdcfde042faa1f53d460439c[m Merge pull request #2 from amosi999/test
+[32m|[m[31m\[m[31m|[m 
+[32m|[m * [33m833e8f520e583e230d8cb519c9ec84f4052b079c[m chore: Update image
+[32m|[m * [33m99916ce678e122a8dc3ecdd9cfbe1a93f7d0f4cf[m chore: Update entitys
+[32m|[m * [33m906b744249ea2f04b76b4a71c97edb885fc166dc[m chore: Update entitys
+[32m|[m * [33m9597e14cd2406336c7dafddca554fb1c5eb45d7f[m chore: Update chatroom
+[32m|[m * [33m093e752bcac5fa46a1012b968e648104fdc96c7d[m chore: Update user
+* [33m|[m [33m977e6792bd08ae42cc5f22fdba483290b8ae3c65[m Merge pull request #1 from amosi999/test
+[34m|[m[33m\[m[33m|[m 
+[34m|[m * [33ma19daa4bd4f7e389b51f2c30fa43e8c244f16a11[m feat: Update chat
+[34m|[m[34m/[m  
+* [33m80d2265fbc68dd83cfd30e854f7d5c0554c00034[m feat: Add entity
+* [33me19f4dae43bce7ed33961a3a3d1ac7eb8ec256f3[m create project
