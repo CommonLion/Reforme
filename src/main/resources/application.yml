@@ -23,10 +23,10 @@ spring:
         format_sql: true
 
 logging.level:
-    org.hibernate.SQL: debug
-    org.hibernate.orm.jdbc.bind: trace
-    org.springframework.security: DEBUG
+  org.hibernate.SQL: debug
+  org.hibernate.orm.jdbc.bind: trace
+  org.springframework.security: DEBUG
 
 jwt:
-    secret: mySecretKey  # 여기에 비밀 키를 입력하세요.
-    expiration: 604800   # 토큰 만료 시간 (초 단위, 예: 7일)
+  secret: mySecretKey  # 여기에 비밀 키를 입력하세요.
+  expiration: 604800   # 토큰 만료 시간 (초 단위, 예: 7일)

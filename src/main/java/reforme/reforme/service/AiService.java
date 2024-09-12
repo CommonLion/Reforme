@@ -114,9 +114,14 @@ public class AiService {
         String maskFileName;
         if (originalFilename.equals("shoes.png")) {
             maskFileName = "shoes mask.png";
-        } else if (originalFilename.equals("shirts.png")) {
-            maskFileName = "shirts mask.png";
-        } else {
+        } else if (originalFilename.equals("light blue shirts.png")) {
+            maskFileName = "light blue shirts mask.png";
+        } else if (originalFilename.equals("light gray zip-up.png")) {
+            maskFileName = "light gray zip-up_mask.png";
+        } else if (originalFilename.equals("blue jean.png")) {
+            maskFileName = "blue jean_mask.png";
+        }
+        else {
             throw new IOException("No matching mask file for the given image");
         }
         return loadMaskFile(maskFileName);
@@ -124,7 +129,7 @@ public class AiService {
 
     private File loadMaskFile(String maskFileName) throws IOException {
         // 로컬 파일 시스템에서 마스크 파일 로드
-        File maskFile = Paths.get("C:\\Users\\bigbl\\Desktop\\maskImage", maskFileName).toFile();
+        File maskFile = Paths.get("C:\\vue\\chat_mask_image", maskFileName).toFile();
         if (!maskFile.exists()) {
             throw new IOException("Mask file not found: " + maskFileName);
         }
