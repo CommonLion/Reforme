@@ -79,8 +79,8 @@
 - **front-git** : [🔗](https://github.com/CommonLion/reforme_front)
 
 - **논문** : [🔗](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11825610)
-![논문 첫페이지](https://github.com/user-attachments/assets/ca9cffe7-53d2-4f2e-b0d2-eccf283b5920)
 
+![논문 첫페이지](https://github.com/user-attachments/assets/ca9cffe7-53d2-4f2e-b0d2-eccf283b5920)
 - **notion** : [🔗](https://patch-viburnum-087.notion.site/985cd8a9374f4d1ca11eeaac016f5dc4)
 
 - **API 명세서** : [🔗](https://docs.google.com/spreadsheets/d/1SPrpvIgnhb34Qk32brxPfl3-MD7moHE-2pR4spV9G1s/edit?gid=0#gid=0)
