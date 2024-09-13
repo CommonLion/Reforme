@@ -1,7 +1,5 @@
 # Reforme
 2024년도 3학년 1학기 기초캡스톤 프로젝트입니다. Spring과 Vue.js 그리고 생성형 AI를 사용하여 사용자가 손쉽게 리폼 디자인을 생성하고, 이를 통해 디자이너와 원활하게 소통할 수 있는 "리폼 서비스 중개 플랫폼인" "리포미"라는 이름의 웹앱 프로그램을 개발하였습니다.
-![캡스톤 디자인 경진대회 포스터_리포미 Team_2024](https://github.com/user-attachments/assets/1e04bf18-6fc4-4d20-a992-eecf4b3de83c)
-![논문 첫페이지](https://github.com/user-attachments/assets/ca9cffe7-53d2-4f2e-b0d2-eccf283b5920)
 
 ## 👨‍🏫 프로젝트 소개
 리포미 프로젝트는 패스트 패션으로 인한 의류 폐기물 문제를 해결하기 위해 "의류 리폼 서비스 중개 플랫폼"을 개발하는 것을 목표로 합니다. 생성형 AI 기술을 활용하여 사용자가 손쉽게 원하는 리폼 디자인을 생성하고, 이를 통해 디자이너와 소비자가 원활하게 소통할 수 있는 환경을 제공합니다. 해당 프로젝트를 통해 의류 재사용을 촉진하고, 환경 오염 문제를 줄이며, 지속 가능한 패션 문화가 되기를 기대합니다.
@@ -70,18 +68,20 @@
 	- 챗봇 기능을 활용하여 리폼을 원하는 이미지와 리폼 요청사항을 작성
 	- 요청사항을 통해 작성된 생성형 이미지로 반환
 
-<!-- ## 💼 포스터 -->
+## 💼 포스터
+![캡스톤 디자인 경진대회 포스터_리포미 Team_2024](https://github.com/user-attachments/assets/1e04bf18-6fc4-4d20-a992-eecf4b3de83c)
 
 
 ## ✒️ 자료
 
-- back-end: 백엔드 깃링크
+- **back-git**: [🔗](https://github.com/CommonLion/reforme_back)
 
-- front : 프론트 깃링크
+- **front-git** : [🔗](https://github.com/CommonLion/reforme_front)
 
-- 논문 : https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11825610
+- **논문** : https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11825610
+![논문 첫페이지](https://github.com/user-attachments/assets/ca9cffe7-53d2-4f2e-b0d2-eccf283b5920)
 
-- notion : 링크
+- **notion** : [🔗](https://patch-viburnum-087.notion.site/985cd8a9374f4d1ca11eeaac016f5dc4)
 
-- API 명세서 : excel 링크
+- **API 명세서** : 🔗
 
